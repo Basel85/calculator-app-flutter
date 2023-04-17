@@ -1,16 +1,9 @@
-# calculator
+# Calculator App
 
-A new Flutter project.
+## Screenshots
+<p align = "center"><img src = "https://user-images.githubusercontent.com/80516466/232496326-275db78a-51af-4d7b-aa58-f5ddbf581dd5.jpg" width = "30%"/></p>
+<p align = "center"><img src = "https://user-images.githubusercontent.com/80516466/232496458-979e7b08-be02-4ce3-b0fb-8e4fd799a2a5.jpg" width = "30%"/></p>
+<p align = "center"><img src = "https://user-images.githubusercontent.com/80516466/232496619-000df55c-95fb-464b-856f-e14920b0c2cf.jpg" width = "30%"/></p>
+<p align = "center"><img src = "https://user-images.githubusercontent.com/80516466/232496740-16307d81-22f6-432d-8595-0a9abd969bab.jpg" width = "30%"/></p>
+<p align = "center"><img src = "https://user-images.githubusercontent.com/80516466/232496916-da168c80-d56a-453e-8eee-c6e0112ca6ee.jpg" width = "30%"/></p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
