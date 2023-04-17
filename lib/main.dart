@@ -20,12 +20,12 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int first_num;
-  int second_num;
+  int first_num = 0;
+  int second_num = 0;
   String history="";
   String text_to_display="";
-  String res;
-  String operation;
+  String res = "";
+  String operation = "";
   void op(String btnvalue){
       //print(btnvalue);
     if(btnvalue=='C'){
